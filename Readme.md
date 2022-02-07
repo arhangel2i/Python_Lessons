@@ -30,4 +30,4 @@ print(a, type(a))
 **text.isdigit()<br/>text.islower()<br/>text.replace('ещё','ЕЩЁ')**|*проверка на цифры<br/>проверка все ли маленькие буквы<br/>поиск и замена части текста*
 **text[0]<br/>text[-5]<br/>text[1:5]**|*1-й символ слева<br/>5-й символ справа<br/>с 1 по 5-й символ справа*
 **ar=[1,2,3,4,5]<br/>ar = list(range(1,10))<br/>list.append(value)<br/>list.remove(value)**|*стадартный список<br/>список созданный из range<br/>добавить в конец списка<br/>удалить значение из списка*
-**def function_name(value)<br/>&nbsp;&nbsp;&nbsp;#тело<br/>&nbsp;&nbsp;&nbsp;return value**|*Объявление функции. return возвращение значения из функции*
+**def function_name(value)<br/>&nbsp;&nbsp;&nbsp;#тело<br/>&nbsp;&nbsp;&nbsp;return value**|*Объявление функции. return возвращение значения из функции. Функцию надо объявлять до вызова*
